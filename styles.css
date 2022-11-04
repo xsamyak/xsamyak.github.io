@@ -1,0 +1,14 @@
+body,a{
+    background-color: black;
+    color: wheat;
+} 
+
+hr{
+    border-style:dashed;
+    width:4%;
+    color: white;
+    border-width: 2px;
+}
+h1,h2,h3{
+    color:darkgrey;
+}
